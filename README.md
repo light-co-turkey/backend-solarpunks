@@ -1,4 +1,4 @@
-# Modular Avatar Backend
+# Simple Backend
 
 -Node Js
 -Express
